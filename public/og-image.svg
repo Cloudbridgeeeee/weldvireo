@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <radialGradient id="r" cx="0.8" cy="0" r="0.9"><stop offset="0" stop-color="#4cc2ff" stop-opacity=".35"/><stop offset="1" stop-color="#0d0f12" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#0d0f12"/>
+  <rect width="1200" height="630" fill="url(#r)"/>
+  <g transform="translate(80 90) scale(1.4)"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4cc2ff"/><stop offset="1" stop-color="#ff8a3d"/></linearGradient></defs><path d="M32 4l6 20 20 8-20 8-6 20-6-20-20-8 20-8z" fill="url(#g)"/><circle cx="50" cy="14" r="5" fill="#ffd166"/></g>
+  <text x="190" y="150" font-family="Oswald, Georgia, serif" font-size="54" font-weight="600" fill="#eef1f6">WeldVireo</text>
+  <text x="80" y="330" font-family="Oswald, Georgia, serif" font-size="72" font-weight="600" fill="#eef1f6">Organize welding</text>
+  <text x="80" y="414" font-family="Oswald, Georgia, serif" font-size="72" font-weight="600" fill="#eef1f6">inspection evidence.</text>
+  <text x="80" y="560" font-family="monospace" font-size="24" fill="#4cc2ff" letter-spacing="4">MECHANICAL ENGINEERING  ·  MANUFACTURING  ·  QUALITY ASSURANCE</text>
+</svg>

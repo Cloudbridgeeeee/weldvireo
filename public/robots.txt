@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /workspace
+
+Sitemap: https://weldvireo.top/sitemap.xml
