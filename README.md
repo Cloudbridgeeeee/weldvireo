@@ -9,7 +9,7 @@ Marketing website and interactive product demonstration for WeldVireo.
 - Industry: Mechanical Engineering, Manufacturing, Quality Assurance
 - Founder: Osahon Igbinovia (Founder & CEO)
 - Co-founder: Aminat Lawal (Co-founder & CTO)
-- Contact: osahon@weldvireo.top
+- Contact: osahon@weldvireo.site
 - Business model: Project-based subscriptions
 
 ## Stack

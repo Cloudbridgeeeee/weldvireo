@@ -3,8 +3,8 @@ import type { Business } from './types'
 export const business: Business = {
   slug: 'weldvireo',
   name: 'WeldVireo',
-  domain: 'weldvireo.top',
-  email: 'osahon@weldvireo.top',
+  domain: 'weldvireo.site',
+  email: 'osahon@weldvireo.site',
   tagline: 'Organize welding inspection evidence.',
   industries: ['Mechanical Engineering', 'Manufacturing', 'Quality Assurance'],
   description:
